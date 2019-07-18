@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836355578910",
+    "firebase_url": "https://project-0-869e6.firebaseio.com",
+    "project_id": "project-0-869e6",
+    "storage_bucket": "project-0-869e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836355578910:android:1ac92e286da4626a",
+        "android_client_info": {
+          "package_name": "com.example.omero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836355578910-8jq88d6p2v530si4ac938cbsbo0amr5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omero",
+            "certificate_hash": "a27fe0e6d50d44a57c43054b674ba9fd50d1cfc8"
+          }
+        },
+        {
+          "client_id": "836355578910-5ssk9vpqvuo5quu3vl9o4sdiu0lo64m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Ss2fkPPwmnvvFK--CI-TF3cvf329a5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836355578910-5ssk9vpqvuo5quu3vl9o4sdiu0lo64m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
